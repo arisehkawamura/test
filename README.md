@@ -1,3 +1,4 @@
 # test
 test
 foo
+bar
